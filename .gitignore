@@ -1,6 +1,5 @@
-.DS_Store
-*/.DS_Store
-
-node_modules
-
+*~
+.sass-cache/
 _site
+google-analytics.js
+.env
